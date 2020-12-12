@@ -2,7 +2,7 @@
 layout: base
 title: page.tag
 ---
-    
+
     <section class="page-intro section">
           <div class="row">
               <div class="col">
@@ -10,7 +10,7 @@ title: page.tag
               </div>
           </div>
     </section>
-    
+
     <section class="faq-nav">
           <div class="container">
               <ul class="row">
@@ -22,7 +22,7 @@ title: page.tag
               </ul>
           </div>
       </section>
-      
+
       <section class="blog-section">
          <div class="container">
              <h2 class="tag-blog">#{{page.tag}}</h2>
@@ -34,7 +34,7 @@ title: page.tag
                             <p class="post-date">{{post.date | date: '%B %d, %Y'}}</p>
                             <p class="post-author">by {{post.author}}</p>
                         </div>
-                        
+
                         <a href="{{ post.url }}" class="post-link">
                            {%if post.img%}
                             <img src="{{post.img}}" alt="{{post.alt}}">

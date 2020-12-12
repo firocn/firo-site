@@ -4,10 +4,12 @@ global:
   yeth: "是"
   noo: "否"
   lelantus: Lelantus
-
+  title: Firo - 财务隐私复新Firo - 财务隐私复新
 
 titles:
   index: 首页
+  download: 下载
+  buy-firo: 买 Firo
 
 navigation:
   getfiro: 获取 Firo
@@ -46,7 +48,7 @@ home:
   cta1: 获取 Firo
   cta2: 了解更多
   privacy: 隐私
-  privacy1: 自 2016 年以来，Firo 一直是无需信任的链上隐私的黄金标准。
+  privacy1: Firo，原 Zcoin，自 2016 年以来一直是无需信任的链上隐私的黄金标准。
   privacy2: 匿名集
   privacy3: 无预信任机制
   blockchain: 区块链
@@ -57,7 +59,7 @@ home:
   randd: 研究与开发
   randd1: Firo 是为区块链隐私和去中心化技术做出真正独立研究和开发的少数几个项目之一。
   getfiro: 获取 Firo
-  getfiro1: 推动数字隐私的前沿。立即加入 Firo 生态系统。
+  getfiro1: 挺进数字隐私的前沿。立即加入 Firo 生态系统。
   getfiro2: 获取钱包
   getfiro3: 买 Firo
   getfiro4: 赚 Firo

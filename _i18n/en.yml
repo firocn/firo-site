@@ -4,11 +4,12 @@ global:
   yeth: "yes"
   noo: "no"
   lelantus: Lelantus
-  
-  
+
+
 titles:
   index: Home
-  
+  download: Download
+
 navigation:
   getfiro: Get Firo
   about: About
@@ -25,7 +26,7 @@ navigation:
   faq: FAQ
   fcs: Firo Crowdfunding System
   opencollective: Open Collective
-  
+
 footer:
   resources: resources
   branding: Branding
@@ -39,7 +40,7 @@ footer:
   email: Email
   sub: Subscribe
   comm: communication
-  
+
 home:
   heading: Financial Privacy Renewed
   heading2: Firo is a digital currency with a focus on setting privacy standards.
@@ -62,7 +63,7 @@ home:
   getfiro3: Buy Firo
   getfiro4: Earn Firo
   getfiro5: Start mining
-  
+
 download:
   heading: Download a wallet
   official: official desktop wallets
@@ -104,7 +105,7 @@ buyfiro:
   fchead1: "firo / crypto"
   csservice: coin-swapping services
   liquidstaking: liquid staking
-  
+
 tech:
   heading: Technology
   heading1: Privacy is about staying one step ahead. The team behind Firo is responsible for some of the most significant blockchain privacy protocols on record, and all that tech is distilled into Firo.
@@ -118,14 +119,14 @@ tech:
   dandelion2: Dandelion++ protects your IP address. Before Firo transactions are broadcast to the whole network, they’re shuffled between nodes a random number of steps. This way, the origin of the broadcast is decorrelated from your IP address.
   mtp1: Decentralized and fair security
   mtp2: Firo’s Merkle Tree Proof (MTP) mining algorithm further strengthens the practical anonymity of transactions. MTP is memory-intensive, preventing miner centralization. Nodes, however, can bypass this memory requirement. A Zcoin-sponsored audit in 2017 proved the effectiveness of this two-pronged approach.
-  
+
 team:
   heading: Team
   coreteam: core team
   research: research
   ambassadors: ambassadors
   community: community managers
-  
+
 roadmap:
   heading: Roadmap
   znodes: Deterministic Znodes
