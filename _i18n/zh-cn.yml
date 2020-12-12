@@ -1,148 +1,148 @@
 global:
   date: '%Y/%m/%d'
   firo: Firo
-  yeth: "yes"
-  noo: "no"
+  yeth: "是"
+  noo: "否"
   lelantus: Lelantus
 
 
 titles:
-  index: Home
+  index: 首页
 
 navigation:
-  getfiro: Get Firo
-  about: About
-  community: Community
-  blog: Blog
-  crowdfunding: Crowdfunding
-  download: Download wallets
-  buyfiro: Buy Firo
-  earnfiro: Earn Firo
-  mine: Mine
-  tech: Tech
-  team: Team
-  roadmap: Roadmap
-  faq: FAQ
-  fcs: Firo Crowdfunding System
+  getfiro: 获取 Firo
+  about: 关于
+  community: 社区
+  blog: 博客
+  crowdfunding: 众筹
+  download: 下载钱包
+  buyfiro: 买 Firo
+  earnfiro: 赚 Firo
+  mine: 挖矿
+  tech: 技术
+  team: 团队
+  roadmap: 路线图
+  faq: 常问问题
+  fcs: Firo 众筹系统
   opencollective: Open Collective
 
 footer:
-  resources: resources
-  branding: Branding
-  vuln: Vulnerability Program
-  explorer: Explorer
-  website: website
-  privacy: Privacy Policy
-  tos: Terms Of Service
-  newsletter: newsletter
-  ifsub: If you want to subscribe to our newsletter, please submit the form.
-  email: Email
-  sub: Subscribe
-  comm: communication
+  resources: 资源
+  branding: 品牌
+  vuln: 漏洞计划
+  explorer: 区块链浏览器
+  website: 网站
+  privacy: 隐私政策
+  tos: 服务条款
+  newsletter: 新闻期刊
+  ifsub: 如果你想订阅我们的新闻期刊，请提交表格。
+  email: 邮箱
+  sub: 订阅
+  comm: 加入讨论
 
 home:
-  heading: Financial Privacy Renewed
-  heading2: Firo is a digital currency with a focus on setting privacy standards.
-  cta1: Get Firo
-  cta2: Learn More
-  privacy: Privacy
-  privacy1: Firo, formerly Zcoin, has been the gold standard of trustless, on-chain privacy since 2016.
-  privacy2: anonymity set
-  privacy3: trustless setup
-  blockchain: Blockchain
-  blockchain1: Firo’s incentive infrastructure gives it the industry-leading practical anonymity set.
-  blockchain2: total supply
-  blockchain3: proof of work
-  blockchain4: master nodes
-  randd: Research and development
-  randd1: Firo is one of the few that actually contributes both independent research and development to blockchain privacy and decentralization technologies.
-  getfiro: get firo
-  getfiro1: Push the frontiers of digital privacy. Join the Firo ecosystem today.
-  getfiro2: Get a wallet
-  getfiro3: Buy Firo
-  getfiro4: Earn Firo
-  getfiro5: Start mining
+  heading: 财务隐私复新
+  heading2: Firo 是一种数字货币，专注于设置隐私标准。
+  cta1: 获取 Firo
+  cta2: 了解更多
+  privacy: 隐私
+  privacy1: 自 2016 年以来，Firo 一直是无需信任的链上隐私的黄金标准。
+  privacy2: 匿名集
+  privacy3: 无预信任机制
+  blockchain: 区块链
+  blockchain1: Firo 的激励性基础设施使其成为行业领先的实用匿名集。
+  blockchain2: 总供应量
+  blockchain3: 工作量证明
+  blockchain4: 主节点
+  randd: 研究与开发
+  randd1: Firo 是为区块链隐私和去中心化技术做出真正独立研究和开发的少数几个项目之一。
+  getfiro: 获取 Firo
+  getfiro1: 推动数字隐私的前沿。立即加入 Firo 生态系统。
+  getfiro2: 获取钱包
+  getfiro3: 买 Firo
+  getfiro4: 赚 Firo
+  getfiro5: 开始挖矿
 
 download:
-  heading: Download a wallet
-  official: official desktop wallets
-  backup: Back up your wallet prior to updating
-  verify: Verify hashes using
-  verify1: this public key
-  guide: Use this official
-  guide1: wallet installation and usage guide
-  changelog: View changelog
-  option1: The high security option
-  option2: The user friendly option
-  option3: The fast, lightweight option
-  qt: QT Wallet
-  downloadqtw: Download QT for Windows
-  downloadqtm: Download QT for MacOS
-  downloadqtl: Download QT for Linux
+  heading: 下载钱包
+  official: 官方桌面钱包
+  backup: 在更新之前备份你的钱包
+  verify: 验证哈希使用
+  verify1: 此公钥
+  guide: 使用此官方
+  guide1: 钱包安装和使用指南
+  changelog: 查看变更日志
+  option1: 高安全性的选择
+  option2: 用户友好的选择
+  option3: 快速，轻巧的选择
+  qt: QT 钱包
+  downloadqtw: 下载 Windows 版 QT 钱包
+  downloadqtm: 下载 macOS 版 QT 钱包
+  downloadqtl: 下载 Linux 版 QT 钱包
   electron: Electron
-  downloadelectronw: Download Electron for Windows
-  downloadelectronm: Download Electron for MacOS
-  downloadelectronl: Download Electron for Linux
+  downloadelectronw: 下载 Windows 版 Electron 钱包
+  downloadelectronm: 下载 macOS 版 Electron 钱包
+  downloadelectronl: 下载 Linux 版 Electron 钱包
   electrum: Electrum
-  downloadelectrumw: Download Electrum for Windows
-  downloadelectrumm: Download Electrum for MacOS
-  downloadelectruml: Download Electrum for Linux
-  hasheswindows: Show SHA256 hashes for Windows
-  hashesmac: Show SHA256 hashes for MacOS
-  hasheslinux: Show SHA256 hashes for Linux
-  wallets: wallets
+  downloadelectrumw: 下载 Windows 版 Electron 钱包
+  downloadelectrumm: 下载 macOS 版 Electron 钱包
+  downloadelectruml: 下载 Linux 版 Electron 钱包
+  hasheswindows: 显示 Windows 版钱包的 SHA256 哈希
+  hashesmac: 显示 macOS 版钱包的 SHA256 哈希
+  hasheslinux: 显示 Linux 版钱包的 SHA256 哈希
+  wallets: 钱包
 
 buyfiro:
-  heading: Buy Firo
-  heading2: One of the ways to get Firo is to acquire it on one of the exchanges. Below you will find a list of exchanges and coin-swapping services that support Firo.
-  ff: "Firo / Fiat"
-  fc: "Firo / Crypto"
-  cs: "Coin-Swapping"
-  exchangeswith: exchanges with
-  ffhead1: "firo / fiat"
-  pairing: pairing
-  fchead1: "firo / crypto"
-  csservice: coin-swapping services
-  liquidstaking: liquid staking
+  heading: 买 Firo
+  heading2: 获得 Firo 的方法之一是在其中一家交易所获得它。你将在下面找到支持 Firo 的交易所和币交换服务的列表。
+  ff: "Firo / 法定货币"
+  fc: "Firo / 加密货币"
+  cs: "币交换服务"
+  exchangeswith: 交易所
+  ffhead1: "Firo / 法定货币"
+  pairing: 交易对
+  fchead1: "Firo / 加密货币"
+  csservice: 币交换服务
+  liquidstaking: 流动性质押
 
 tech:
-  heading: Technology
-  heading1: Privacy is about staying one step ahead. The team behind Firo is responsible for some of the most significant blockchain privacy protocols on record, and all that tech is distilled into Firo.
-  academicpapers: Academic Papers
-  audits: Audits
-  lelantus1: Lelantus Technology
-  lelantus2: Lelantus is a next-generation privacy protocol developed by Aram Jivanyan at Firo. Lelantus allows you to burn your coins, which hides them in an anonymity set of over 65,000. The receiver can redeem it from this anonymity pool, which breaks the links from your transaction and all the previous ones it has been through.
-  sigma1: Sigma Technology
-  sigma2: We believe the whole purpose of blockchain is to build systems that do not require trust, and that same principle applies to our privacy system itself. This is why we built Sigma for Zcoin in 2018. Sigma uses 256 bit ECC curves for proof sizes of just 1.5 kB - a 17x improvement on then-current technology. Sigma was a precursor to Lelantus, and set many stepping stones to get us where we are today.
-  dandelion1: Dandelion Technology
-  dandelion2: Dandelion++ protects your IP address. Before Firo transactions are broadcast to the whole network, they’re shuffled between nodes a random number of steps. This way, the origin of the broadcast is decorrelated from your IP address.
-  mtp1: Decentralized and fair security
-  mtp2: Firo’s Merkle Tree Proof (MTP) mining algorithm further strengthens the practical anonymity of transactions. MTP is memory-intensive, preventing miner centralization. Nodes, however, can bypass this memory requirement. A Zcoin-sponsored audit in 2017 proved the effectiveness of this two-pronged approach.
+  heading: 技术
+  heading1: 隐私快人一步。Firo 背后的团队充分研究有史以来的一些最重要的区块链隐私协议，这些技术都被提炼到 Firo 中。
+  academicpapers: 学术论文
+  audits: 审核
+  lelantus1: Lelantus 技术
+  lelantus2: Lelantus 是由 Firo 的 Aram Jivanyan 开发的下一代隐私协议。Lelantus 允许你燃烧你的币，这将它们隐藏在超过 65000 个匿名集中。接收者可以从该匿名池中将其赎回，从而断开你的交易以及之前通过的所有交易中的链接。
+  sigma1: Sigma 技术
+  sigma2: 我们相信区块链的最终目的是建立不需要信任的系统，并且同样的原则也适用于我们的隐私系统本身。这就是为什么我们在 2018 年为 Zcoin 构建 Sigma 的原因。Sigma 使用 256 位 ECC 曲线，证明大小仅为 1.5 kB，是当时技术的 17 倍改进。Sigma 是 Lelantus 的先驱，为我们今天的地位奠定了许多垫脚石。
+  dandelion1: Dandelion 技术
+  dandelion2: Dandelion++ 保护你的 IP 地址。在 Firo 交易广播到整个网络之前，它们会在节点之间随机调整步数。这样，广播的来源就与你的 IP 地址解除了关联。
+  mtp1: 分散和公平的安全
+  mtp2: Firo 的默克尔树证明（MTP）挖矿算法进一步增强了交易的实用匿名性。MTP 占用大量内存，阻止了矿工集中化。但是，普通节点可以绕过此内存要求。2017 年由 Zcoin 发起的审计证明了这种两管齐下的方法的有效性。
 
 team:
-  heading: Team
-  coreteam: core team
-  research: research
-  ambassadors: ambassadors
-  community: community managers
+  heading: 团队
+  coreteam: 核心团队
+  research: 研究
+  ambassadors: 大使
+  community: 社区经理
 
 roadmap:
-  heading: Roadmap
-  znodes: Deterministic Znodes
+  heading: 路线图
+  znodes: 确定性主节点
   mnodesq: Long Lived Masternode Quorums
-  rap: RAP Addresses - PR Review
+  rap: RAP 地址 - PR 审核
   chainlocks: Chain-locks
-  rebrand: Rebrand
-  elysium: Elysium with Lelantus
-  defi: DeFi Integrations
-  instant: Instant Send
-  aura: Aura with direct anonymous payments
-  pow: PoW change
-  mobile: Mobile wallet and SDK with Lelantus/Aura support
-  fast: Fast sync clients
+  rebrand: 品牌重塑
+  elysium: 使用 Lelantus 的 Elysium
+  defi: DeFi 集成
+  instant: 即时发送
+  aura: 直接匿名支付的 Aura
+  pow: 改变工作量证明算法
+  mobile: 支持 Lelantus / Aura 的移动钱包和 SDK
+  fast: 快速同步客户端
   chainswap: Chain swap
-  research: Research
-  bridges: Cross chain bridges
-  mixnets: Mixnets
-  proofs: Hierarchical one-out-of-many proofs for Lelantus
-  learnmore: Learn more
+  research: 研究
+  bridges: 跨链桥
+  mixnets: 混合网
+  proofs: Lelantus 的分层 one-out-of-many 证明
+  learnmore: 了解更多
