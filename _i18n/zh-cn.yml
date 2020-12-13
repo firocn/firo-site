@@ -1,31 +1,31 @@
 global:
   date: '%Y/%m/%d'
-  firo: Firo
+  firo: 飞熔
   yeth: "是"
   noo: "否"
   lelantus: Lelantus
-  title: Firo - 财务隐私复新Firo - 财务隐私复新
+  title: 飞熔 - 财务隐私复新
 
 titles:
   index: 首页
   download: 下载
-  buy-firo: 买 Firo
+  buy-firo: 买飞熔
 
 navigation:
-  getfiro: 获取 Firo
+  getfiro: 获取飞熔
   about: 关于
   community: 社区
   blog: 博客
   crowdfunding: 众筹
   download: 下载钱包
-  buyfiro: 买 Firo
-  earnfiro: 赚 Firo
+  buyfiro: 买飞熔
+  earnfiro: 赚飞熔
   mine: 挖矿
   tech: 技术
   team: 团队
   roadmap: 路线图
   faq: 常问问题
-  fcs: Firo 众筹系统
+  fcs: 飞熔众筹系统
   opencollective: Open Collective
 
 footer:
@@ -44,25 +44,25 @@ footer:
 
 home:
   heading: 财务隐私复新
-  heading2: Firo 是一种数字货币，专注于设置隐私标准。
-  cta1: 获取 Firo
+  heading2: 飞熔是一种数字货币，专注于设置隐私标准。
+  cta1: 获取飞熔
   cta2: 了解更多
   privacy: 隐私
-  privacy1: Firo，原 Zcoin，自 2016 年以来一直是无需信任的链上隐私的黄金标准。
+  privacy1: 飞熔，原 Zcoin，自 2016 年以来一直是无需信任的链上隐私的黄金标准。
   privacy2: 匿名集
   privacy3: 无预信任机制
   blockchain: 区块链
-  blockchain1: Firo 的激励性基础设施使其成为行业领先的实用匿名集。
+  blockchain1: 飞熔的激励性基础设施使其成为行业领先的实用匿名集。
   blockchain2: 总供应量
   blockchain3: 工作量证明
   blockchain4: 主节点
   randd: 研究与开发
-  randd1: Firo 是为区块链隐私和去中心化技术做出真正独立研究和开发的少数几个项目之一。
-  getfiro: 获取 Firo
-  getfiro1: 挺进数字隐私的前沿。立即加入 Firo 生态系统。
+  randd1: 飞熔是为区块链隐私和去中心化技术做出真正独立研究和开发的少数几个项目之一。
+  getfiro: 获取飞熔
+  getfiro1: 挺进数字隐私的前沿。立即加入飞熔生态系统。
   getfiro2: 获取钱包
-  getfiro3: 买 Firo
-  getfiro4: 赚 Firo
+  getfiro3: 买飞熔
+  getfiro4: 赚飞熔
   getfiro5: 开始挖矿
 
 download:
@@ -95,31 +95,31 @@ download:
   wallets: 钱包
 
 buyfiro:
-  heading: 买 Firo
-  heading2: 获得 Firo 的方法之一是在其中一家交易所获得它。你将在下面找到支持 Firo 的交易所和币交换服务的列表。
-  ff: "Firo / 法定货币"
-  fc: "Firo / 加密货币"
+  heading: 买飞熔
+  heading2: 获得飞熔的方法之一是在其中一家交易所获得它。你将在下面找到支持飞熔的交易所和币交换服务的列表。
+  ff: "飞熔 / 法定货币"
+  fc: "飞熔 / 加密货币"
   cs: "币交换服务"
   exchangeswith: 交易所
-  ffhead1: "Firo / 法定货币"
+  ffhead1: "飞熔 / 法定货币"
   pairing: 交易对
-  fchead1: "Firo / 加密货币"
+  fchead1: "飞熔 / 加密货币"
   csservice: 币交换服务
   liquidstaking: 流动性质押
 
 tech:
   heading: 技术
-  heading1: 隐私快人一步。Firo 背后的团队充分研究有史以来的一些最重要的区块链隐私协议，这些技术都被提炼到 Firo 中。
+  heading1: 隐私快人一步。飞熔背后的团队充分研究有史以来的一些最重要的区块链隐私协议，这些技术都被提炼到飞熔中。
   academicpapers: 学术论文
   audits: 审核
   lelantus1: Lelantus 技术
-  lelantus2: Lelantus 是由 Firo 的 Aram Jivanyan 开发的下一代隐私协议。Lelantus 允许你燃烧你的币，这将它们隐藏在超过 65000 个匿名集中。接收者可以从该匿名池中将其赎回，从而断开你的交易以及之前通过的所有交易中的链接。
+  lelantus2: Lelantus 是由飞熔的 Aram Jivanyan 开发的下一代隐私协议。Lelantus 允许你燃烧你的币，这将它们隐藏在超过 65000 个匿名集中。接收者可以从该匿名池中将其赎回，从而断开你的交易以及之前通过的所有交易中的链接。
   sigma1: Sigma 技术
   sigma2: 我们相信区块链的最终目的是建立不需要信任的系统，并且同样的原则也适用于我们的隐私系统本身。这就是为什么我们在 2018 年为 Zcoin 构建 Sigma 的原因。Sigma 使用 256 位 ECC 曲线，证明大小仅为 1.5 kB，是当时技术的 17 倍改进。Sigma 是 Lelantus 的先驱，为我们今天的地位奠定了许多垫脚石。
   dandelion1: Dandelion 技术
-  dandelion2: Dandelion++ 保护你的 IP 地址。在 Firo 交易广播到整个网络之前，它们会在节点之间随机调整步数。这样，广播的来源就与你的 IP 地址解除了关联。
+  dandelion2: Dandelion++ 保护你的 IP 地址。在飞熔交易广播到整个网络之前，它们会在节点之间随机调整步数。这样，广播的来源就与你的 IP 地址解除了关联。
   mtp1: 分散和公平的安全
-  mtp2: Firo 的默克尔树证明（MTP）挖矿算法进一步增强了交易的实用匿名性。MTP 占用大量内存，阻止了矿工集中化。但是，普通节点可以绕过此内存要求。2017 年由 Zcoin 发起的审计证明了这种两管齐下的方法的有效性。
+  mtp2: 飞熔的默克尔树证明（MTP）挖矿算法进一步增强了交易的实用匿名性。MTP 占用大量内存，阻止了矿工集中化。但是，普通节点可以绕过此内存要求。2017 年由 Zcoin 发起的审计证明了这种两管齐下的方法的有效性。
 
 team:
   heading: 团队
