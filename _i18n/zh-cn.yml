@@ -9,7 +9,7 @@ global:
 titles:
   index: 首页
   download: 下载
-  buy-firo: 买飞熔
+  buy-firo: 买飞熔币
 
 navigation:
   getfiro: 获取飞熔
@@ -18,8 +18,8 @@ navigation:
   blog: 博客
   crowdfunding: 众筹
   download: 下载钱包
-  buyfiro: 买飞熔
-  earnfiro: 赚飞熔
+  buyfiro: 买飞熔币
+  earnfiro: 赚飞熔币
   mine: 挖矿
   tech: 技术
   team: 团队
@@ -61,8 +61,8 @@ home:
   getfiro: 获取飞熔
   getfiro1: 挺进数字隐私的前沿。立即加入飞熔生态系统。
   getfiro2: 获取钱包
-  getfiro3: 买飞熔
-  getfiro4: 赚飞熔
+  getfiro3: 买飞熔币
+  getfiro4: 赚飞熔币
   getfiro5: 开始挖矿
 
 download:
@@ -95,15 +95,15 @@ download:
   wallets: 钱包
 
 buyfiro:
-  heading: 买飞熔
-  heading2: 获得飞熔的方法之一是在其中一家交易所获得它。你将在下面找到支持飞熔的交易所和币交换服务的列表。
-  ff: "飞熔 / 法定货币"
-  fc: "飞熔 / 加密货币"
+  heading: 买飞熔币
+  heading2: 获得飞熔币的方法之一是在其中一家交易所获得它。你将在下面找到支持飞熔币的交易所和币交换服务的列表。
+  ff: "飞熔币 / 法定货币"
+  fc: "飞熔币 / 加密货币"
   cs: "币交换服务"
   exchangeswith: 交易所
-  ffhead1: "飞熔 / 法定货币"
+  ffhead1: "飞熔币 / 法定货币"
   pairing: 交易对
-  fchead1: "飞熔 / 加密货币"
+  fchead1: "飞熔币 / 加密货币"
   csservice: 币交换服务
   liquidstaking: 流动性质押
 
